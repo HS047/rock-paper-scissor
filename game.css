@@ -4,12 +4,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-@media only screen and (max-width:500px) 
-    {
-        .choices{
-            margin:auto;
-        }
-    }
+
 body
 {
     background-color: rgb(87, 78, 216);
